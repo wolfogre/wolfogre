@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Gitea](https://github.com/go-gitea/gitea).
+  - [Clarifying Myself to Gitea Users/Maintainers](https://blog.wolfogre.com/posts/clarifying-myself-to-gitea/)
+
 <!--
 **wolfogre/wolfogre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
